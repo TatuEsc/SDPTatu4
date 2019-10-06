@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDPTatu4", "SDPTatu4.csproj", "{57F4B7CE-2569-4E17-B5FD-B53CB1A911EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F4B7CE-2569-4E17-B5FD-B53CB1A911EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F4B7CE-2569-4E17-B5FD-B53CB1A911EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F4B7CE-2569-4E17-B5FD-B53CB1A911EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F4B7CE-2569-4E17-B5FD-B53CB1A911EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD03E87-EE55-4B2C-829B-0331013E0485}
+	EndGlobalSection
+EndGlobal
